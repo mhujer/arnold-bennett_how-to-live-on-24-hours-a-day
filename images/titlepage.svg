@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
+	<title>The titlepage for the Standard Ebooks edition of How to Live on 24 Hours a Day, by Arnold Bennett</title>
+	<style type="text/css">
+		text{
+			font-family: League Spartan;
+			letter-spacing: 5px;
+			text-anchor: middle;
+		}
+
+		.title{
+			font-size: 93.56725311px;
+		}
+
+		.author{
+			font-size: 70.17543793px;
+		}
+	</style>
+	<text class="title" x="700" y="130">HOW TO LIVE</text>
+	<text class="title" x="700" y="230">ON 24 HOURS A DAY</text>
+	<text class="author" x="700" y="390">ARNOLD BENNETT</text>
+</svg>
